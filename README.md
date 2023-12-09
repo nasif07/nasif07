@@ -5,6 +5,10 @@
 ## About Me: 
 <p>Hello, I'm Nasif, a dynamic and skilled web developer specializing in the MERN stack. With  skilled in MongoDB, Express.js, React.js, and Node.js, I've successfully crafted responsive and feature-rich websites that blend functionality with a seamless user experience</p>
 
+## :chart_with_upwards_trend: Current Stats
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nasif07&theme=dark" alt="GitHub Streak" /></a>
+
 
 ## :computer: Technologies that I know
 
