@@ -2,6 +2,9 @@
 <img src="https://raw.githubusercontent.com/nasif07/nasif07/main/image/banner/1.png" />
 </a>
 
+## About Me: 
+<p>Hello, I'm Nasif, a dynamic and skilled web developer specializing in the MERN stack. With  skilled in MongoDB, Express.js, React.js, and Node.js, I've successfully crafted responsive and feature-rich websites that blend functionality with a seamless user experience</p>
+
 
 ## :computer: Technologies that I know
 
