@@ -7,7 +7,9 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nasif07&theme=dark" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nasif07&theme=vue-dark&hide_border=true&mode=weekly&card_width=489" alt="GitHub Streak" /></a>
+</p>
 
 
 ## :computer: Technologies that I know
