@@ -3,7 +3,7 @@
 </a>
 
 ## About Me: 
-<p>Hello, I'm Nasif, a dynamic and skilled web developer specializing in the MERN stack. With  skilled in MongoDB, Express.js, React.js, and Node.js, I've successfully crafted responsive and feature-rich websites that blend functionality with a seamless user experience</p>
+<p>Hello, I'm Nasif, a dynamic and skilled web developer specializing in the MERN stack. Skilled in React.js, next.js, redux, Express.js, Node.js, and MongoDB. I've successfully crafted responsive and feature-rich websites that blend functionality with a seamless user experience</p>
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,firebase,react,vite,mongodb,nodejs,expressjs,git" />
+    <img src="[https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,firebase,react,vite,mongodb,nodejs,expressjs,git](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,firebase,react,next,redux,typescript,vite,mongodb,nodejs,expressjs,git)" />
   </a>
 </p>
 
